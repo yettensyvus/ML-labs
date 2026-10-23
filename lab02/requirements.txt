@@ -1,0 +1,2 @@
+# Lab 02: K-Nearest Neighbors & Supervised Learning - Requirements
+-r ../requirements.txt
